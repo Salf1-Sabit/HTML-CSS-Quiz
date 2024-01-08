@@ -11,7 +11,6 @@ Completed as part of the FreeCodeCamp.org Responsive Web Design course, this pro
 - **ARIA Attributes**: Used to enhance accessibility and provide context to assistive technologies.
 - **HTML Semantics**: Employed to create a more structured and meaningful document outline.
 - **Navigation**: Improved navigation elements for a seamless user experience.
-- **Design Best Practices**: Implemented for a visually appealing and user-friendly interface.
 
 ## Technologies Used
 - HTML5
